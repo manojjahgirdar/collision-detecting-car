@@ -22,6 +22,11 @@ The car consists of 4 gear motors that powers the 4 wheels of the car. There is 
 The source code can be found here:
     - [collision_detecting_car.ino](/src/collision_detecting_car/collision_detecting_car.ino)
 
+## Demo
+
+![demo](/doc/src/videos/video_demo.mov)
+![car](/doc/src/images/car.jpg)
+
 ## References
 
 1. [Ping Ultrasonic Range Finder](https://docs.arduino.cc/built-in-examples/sensors/Ping/)
