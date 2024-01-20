@@ -15,7 +15,7 @@ The car consists of 4 gear motors that powers the 4 wheels of the car. There is 
 
 ## Source code
 
-1. The source code can be found here:
+The source code can be found here:
     - [collision_detecting_car.ino](/src/collision_detecting_car/collision_detecting_car.ino)
 
 ## References
