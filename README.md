@@ -9,7 +9,7 @@ Built a collision detecting car that stops when any obstacle is detected in its 
 1. Working of gear motors
 1. Working of 4x4 motor driver
 
-## Circuit Diagram
+## Diagram
 
 ![architecture](/doc/src/images/architecture.png)
 
