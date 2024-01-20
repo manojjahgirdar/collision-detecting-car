@@ -24,7 +24,12 @@ The source code can be found here:
 
 ## Demo
 
-![demo](/doc/src/videos/video_demo.mov)
+
+
+https://github.com/manojjahgirdar/collision-detecting-car/assets/52746337/4234fcf8-d1ff-4b5f-b9c3-5eef89437f0e
+
+
+
 ![car](/doc/src/images/car.jpg)
 
 ## References
